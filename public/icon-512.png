@@ -1,0 +1,32 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="86" fill="#3B82F6"/>
+  <!-- Dog face -->
+  <ellipse cx="256" cy="220" rx="120" ry="100" fill="white"/>
+  <!-- Eyes -->
+  <circle cx="220" cy="190" r="15" fill="#3B82F6"/>
+  <circle cx="292" cy="190" r="15" fill="#3B82F6"/>
+  <!-- Nose -->
+  <ellipse cx="256" cy="230" rx="10" ry="8" fill="#3B82F6"/>
+  <!-- Mouth -->
+  <path d="M256 245 Q230 270 200 260" stroke="#3B82F6" stroke-width="5" fill="none"/>
+  <path d="M256 245 Q282 270 312 260" stroke="#3B82F6" stroke-width="5" fill="none"/>
+  <!-- Ears -->
+  <ellipse cx="180" cy="150" rx="30" ry="50" fill="white"/>
+  <ellipse cx="332" cy="150" rx="30" ry="50" fill="white"/>
+  <!-- Heart -->
+  <path d="M256 380 C240 365, 210 350, 210 320 C210 305, 225 290, 245 290 C252 290, 256 295, 256 295 C256 295, 260 290, 267 290 C287 290, 302 305, 302 320 C302 350, 272 365, 256 380 Z" fill="#EF4444"/>
+  <!-- Paw prints -->
+  <g fill="#60A5FA" opacity="0.3">
+    <circle cx="150" cy="400" r="8"/>
+    <circle cx="140" cy="415" r="6"/>
+    <circle cx="160" cy="415" r="6"/>
+    <circle cx="135" cy="430" r="5"/>
+    <circle cx="165" cy="430" r="5"/>
+    
+    <circle cx="362" cy="400" r="8"/>
+    <circle cx="352" cy="415" r="6"/>
+    <circle cx="372" cy="415" r="6"/>
+    <circle cx="347" cy="430" r="5"/>
+    <circle cx="377" cy="430" r="5"/>
+  </g>
+</svg>

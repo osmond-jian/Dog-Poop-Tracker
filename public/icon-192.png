@@ -1,0 +1,18 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" rx="32" fill="#3B82F6"/>
+  <!-- Dog face -->
+  <ellipse cx="96" cy="85" rx="45" ry="40" fill="white"/>
+  <!-- Eyes -->
+  <circle cx="85" cy="75" r="6" fill="#3B82F6"/>
+  <circle cx="107" cy="75" r="6" fill="#3B82F6"/>
+  <!-- Nose -->
+  <ellipse cx="96" cy="90" rx="4" ry="3" fill="#3B82F6"/>
+  <!-- Mouth -->
+  <path d="M96 95 Q85 105 75 100" stroke="#3B82F6" stroke-width="2" fill="none"/>
+  <path d="M96 95 Q107 105 117 100" stroke="#3B82F6" stroke-width="2" fill="none"/>
+  <!-- Ears -->
+  <ellipse cx="70" cy="60" rx="12" ry="20" fill="white"/>
+  <ellipse cx="122" cy="60" rx="12" ry="20" fill="white"/>
+  <!-- Heart -->
+  <path d="M96 140 C90 135, 80 130, 80 120 C80 115, 85 110, 90 110 C93 110, 96 112, 96 112 C96 112, 99 110, 102 110 C107 110, 112 115, 112 120 C112 130, 102 135, 96 140 Z" fill="#EF4444"/>
+</svg>
